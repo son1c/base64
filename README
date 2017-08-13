@@ -1,3 +1,8 @@
 Simple script to en/decode base64 strings
 
-USAGE: b64.py [encode/decode] [String]
+OPTIONS
+
+-e encode string
+-d decode string 
+
+USAGE: b64.py [option] [String]
